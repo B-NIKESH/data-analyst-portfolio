@@ -24,7 +24,7 @@ I enjoy transforming data into actionable insights using Excel, SQL, and Power B
 Interactive Power BI dashboard analyzing sales performance by city, product, and monthly trends.
 
 Repository:
-[View Project]https://github.com/B-NIKESH/sales-performance-dashboard
+[View Project](https://github.com/B-NIKESH/sales-performance-dashboard)
 
 ---
 
@@ -33,7 +33,7 @@ Repository:
 Designed a relational database and performed SQL analysis to derive business insights.
 
 Repository:
-[View Project]https://github.com/B-NIKESH/retail-sales-sql-analysis
+[View Project](https://github.com/B-NIKESH/retail-sales-sql-analysis)
 
 ---
 
