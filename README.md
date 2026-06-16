@@ -41,7 +41,7 @@ Repository:
 Created, calculated and analysed the entire sales data of a super-market to find insights for future development.
 
 Repository:
-[View Project](https://b-nikesh.github.io/customer-shopping-behavior-Analysis/)
+[View Project](https://github.com/B-NIKESH/customer-shopping-behavior-Analysis)
 
 # 📬 Contact
 
