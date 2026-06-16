@@ -36,6 +36,12 @@ Repository:
 [View Project](https://github.com/B-NIKESH/retail-sales-sql-analysis)
 
 ---
+## 3. Customer Shopping Behaviour Analysis
+
+Created, calculated and analysed the entire sales data of a super-market to find insights for future development.
+
+Repository:
+[View Project](https://b-nikesh.github.io/customer-shopping-behavior-Analysis/)
 
 # 📬 Contact
 
