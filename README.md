@@ -45,8 +45,7 @@ Repository:
 
 # 📬 Contact
 
-GitHub:
-https://github.com/B-NIKESH
+GitHub: [View Profile](https://github.com/B-NIKESH)
 
 LinkedIn:
 (Add your LinkedIn profile link)
